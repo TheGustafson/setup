@@ -5,7 +5,7 @@
 # Aliases made manually
 alias cp='cp -i'
 alias mv='mv -i'
-alias mkdir='mkdir -i'
+alias mkdir='mkdir -p'
 alias gohome='cd ~'
 alias cd..='cd ..'
 alias ..='cd ..'

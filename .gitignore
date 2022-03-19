@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+/*/*
+# But note these files
+!.gitignore
+!.tmux.conf
+!.bashrc
+!/.config
+!/.config/nvim/
+
